@@ -1,0 +1,157 @@
+name,category,price,spicy,pound
+招牌龍蝦 Lobster w/ House Special Sauce,T&T House Special 好世界八寶,20.80,yes,yes
+蜜桃沙律蝦 Crispy Prawns w/ Honey Walnuts,T&T House Special 好世界八寶,14.80,yes,no
+馳名四川蝦 Szechuan Style Crispy Prawns,T&T House Special 好世界八寶,14.80,yes,no
+泰式鐵板銀雪Sizzling Sea Bass w/ Thai Style Sauce,T&T House Special 好世界八寶,18.80,yes,no
+法式鑊仔蜆 Clams w/ French Style Hot Pot,T&T House Special 好世界八寶,11.80,no,no
+香茅串燒銀雪魚 Grilled Sea Bass w/ Lemon Grass,T&T House Special 好世界八寶,23.80,no,no
+金牔北京片皮鴨 Peking Duck,T&T House Special 好世界八寶,26.80,no,no
+
+生猛龍蝦 Live Lobster,Fresh Seafood 游水海鮮,20.80/lb,no,yes
+亞拉斯加肉蟹 Live Alaska Crab,Fresh Seafood 游水海鮮,17.80,no,yes
+游水鰂魚 Live Talapia,Fresh Seafood 游水海鮮,15.80,no,yes
+
+雞春卷 Crispy Chicken Spring Roll (each),Appetizers 拼盤,2.20,no,no
+涼拌海哲 Cold Jelly Fish,Appetizers 拼盤,10.80,yes,no
+蜜汁叉燒 B.B.Q. Pork,Appetizers 拼盤,7.80,no,no
+燻蹄 Pork Hock,Appetizers 拼盤,10.80,no,no
+鍋貼 Pot Stickers (8),Appetizers 拼盤,8.80,no,no
+海哲拼燻蹄 Cold Jelly Fish w/ Pork Hock,,Appetizers 拼盤,13.80,yes,no
+潮式炸大腸 Deep Fried Bung Unbplit,Appetizers 拼盤,12.80,no,no
+椒鹽雞翼 Salt & Pepper Chicken Wings (8),Appetizers 拼盤,9.80,yes,no
+
+瑤柱雞絲羹 Dry Scallop w/ Shredded Chicken Soup,Soup 湯羹,18.80,no,no
+花雕醉蜆湯 Clam with Hua Diao Soup,Soup 湯羹,16.80,no,no
+蟹肉魚肚羹 Crab Meat & Fish Maw Soup,Soup 湯羹,14.80,no,no
+雞茸魚肚羹 Chicken & Fish Maw Soup,Soup 湯羹,11.80,no,no
+粟米魚肚羹 Fish Maw & Cream of Corn Soup,Soup 湯羹,10.80,no,no
+海鮮豆腐羹 Assorted Seafood & Bean Curd Soup,Soup 湯羹,10.80,no,no
+西湖牛肉羹 Minced Beef & Egg Swirl Soup,Soup 湯羹,9.80,no,no
+火鴨芥菜湯 Roasted Duck & Mustard Green Soup,Soup 湯羹,9.80,no,no
+七彩酸辣湯 Hot & Sour Soup,Soup 湯羹,8.80,yes,no
+磨菇蛋花湯 Fresh Mushroom & Egg Swirl Soup,Soup 湯羹,8.80,no,no
+海鮮鍋巴湯 Seafood Sizzling Rice Soup,Soup 湯羹,8.80,no,no
+
+鮑魚北菇海参 Sliced Abalone w/ Vegetables,Seafood 海鮮,23.80,no,no
+鮑魚海參一品煲 Abalone & Dried Seafood Hot Pot,Seafood 海鮮,23.80,no,no
+瓊山海鮮玉子豆腐 Assorted Seafood w/ Japanese Tofu,Seafood 海鮮,12.80,no,no
+油泡龍利球 Sauteed Filet of Sole w/ Chinese Green,Seafood 海鮮,10.80,no,no
+宮保蝦球 Kung Pao Shrimp,Seafood 海鮮,12.80,yes,no
+雪豆帶子 Sauteed Scallop w/ Snow Pea,Seafood 海鮮,13.80,no,no
+椒鹽銀雪魚 Deep Fried Sea Bass w/ Salt & Chili Pepper,Seafood 海鮮,22.80,yes,no
+清蒸銀雪魚 Steamed Sea Bass w/ Ginger & Onion,Seafood 海鮮,21.80,no,no
+油泡銀雪魚 Sauteed Sea Bass w/ Chinese Green,Seafood 海鮮,21.80,no,no
+煎封面銀雪魚 Deep Fried Sea Bass w/ Soy Sauce,Seafood 海鮮,21.80,no,no
+粟米銀雪魚 Deep Fried Sea Bass w/ Cream & Corn Sauce,Seafood 海鮮,21.80,no,no
+富責海中寶 Sauteed Prawns & Scallops & Squid w/ Broccoli ,Seafood 海鮮,12.80,no,no
+碧綠龍鳯球 Sauteed Prawns & Chicken w/ Broccoli ,Seafood 海鮮,10.80,no,no
+蝦球帶子 Sauteed Prawns & Scallop w/ Fresh Mushrooms  ,Seafood 海鮮,13.80,no,no
+雙菇帶子 Scallop w/ Two Kinds of Mushrooms,Seafood 海鮮,13.80,no,no
+芥蘭帶子 Sauteed Scallop w/ Chinese Broccoli,Seafood 海鮮,13.80,no,no
+Kung Pao Scallop,Seafood 海鮮,13.80,yes,no
+X.O. 醬炒蜆 Sauteed Clam w/ X.O. Hot Sause,Seafood 海鮮,13.80,yes,no
+豉汁炒肉蜆 Sauteed Clam w/ Black Bean Sauce,Seafood 海鮮,11.80,no,no
+泰式鑊仔蜆 Sauteed Clam w/ Thai Sauce Hot Pot,Seafood 海鮮,11.80,yes,no
+芥蘭蝦球 Sauteed Prawns w/ Chinese Broccoli,Seafood 海鮮,12.80,no,no
+雪豆蝦球 Sauteed Prawns w/ Snow Peas,Seafood 海鮮,12.80,no,no
+腰果蝦球 Sauteed Prawns w/ Cashew Nuts,Seafood 海鮮,12.80,no,no
+甜酸蝦 Sweet & Sour Prawns,Seafood 海鮮,12.80,no,no
+豉汁蝦 Prawns w/Black Bean Sauce,Seafood 海鮮,12.80,no,no
+椒鹽蝦 Deep Fried Prawns w/ Salt & Chili Pepper (with shell),Seafood 海鮮,12.80,yes,no
+蝦龍楜 Prawns with Lobster Sauce,Seafood 海鮮,12.80,no,no
+芥蘭鮮魷 Suateed Squid with Chinese Broccoli,Seafood 海鮮,9.80,no,no
+
+蒜子銀雪魚煲 Fresh Garlic Sea Bass w/ Roasted Pork Hot Pot,Hot Pot 煲仔,18.80,no,no
+北菇䕼煲 Chinese Mushrooms w/ Chinese Hot Pot,Hot Pot 煲仔,9.80,no,no
+薑蔥牛肉煲 Beef w/ Ginger & green Onion Hot Pot,Hot Pot 煲仔,9.80,no,no
+火腩生蠔煲 Deep Fried Oysters w/ Roasted Pork Hot Pot,Hot Pot 煲仔,16.80,no,no
+海鮮豆腐煲 Seafood w/ Deep Fried Tofu Hot Pot,Hot Pot 煲仔,13.80,no,no
+咖喱魚蛋炸豆腐 Deep Fried Tofu & Fish Ball w/ Curry Sauce Hot Pot,Hot Pot 煲仔,9.80,no,no
+八珍豆腐煲 Eight Jewels Tofu Hot Pot,Hot Pot 煲仔,12.80,no,no
+
+北菇扒芥蘭 Chinese Mushroom w/ Chinese Broccoli,Vegetable 蔬菜,10.80,no,no
+          Chinese Mushroom w/ Mustard Green,Vegetable 蔬菜,10.80,no,no
+          Chinese Mushroom w/ Chinese Green,Vegetable 蔬菜,10.80,no,no
+竹笙扒芥菜 Mustard Green w/ Bamboo Pith,Vegetable 蔬菜,11.80,no,no
+油鹽芥菜膽 Sauteed Mustard Green,Vegetable 蔬菜,7.80,no,no
+蠔油芥蘭 Oyster Sauce w/ Chinese Broccoli,Vegetable 蔬菜,7.80,no,no
+蒜茸小白菜 Sauteed Chinese Green w/ Garlic,Vegetable 蔬菜,6.80,no,no
+肉絲干扁四季豆 Sauteed Green Bean w/ Shredded Pork,Vegetable 蔬菜,8.80,no,no
+素什錦 Mixed Vegetable,Vegetable 蔬菜,7.80,no,no
+
+八珍扒鴨 House Special Eight Ingredients Duck half,Chicken & Duck,18.80,no,no
+八珍扒鴨 House Special Eight Ingredients Duck whole,Chicken & Duck,28.80,no,no
+明爐燒鴨 B.B.Q. Duck half,Chicken & Duck,11.80,no,no
+明爐燒鴨 B.B.Q. Duck half,Chicken & Duck,22.80,no,no
+富紅炸子雞 Crispy Chicken Cantonese Style half,Chicken & Duck,8.80,no,no
+富紅炸子雞 Crispy Chicken Cantonese Style half,Chicken & Duck,14.80,no,no
+馳名四雞 Szechuan Style Chicken w/ Broccoli,Chicken & Duck,10.80,yes,no
+西檸煎軟雞 Deep Fried Lemon Chicken,Chicken & Duck,8.80,no,no
+雪豆雞片 Sauteed Chicken w/ Snow Pea,Chicken & Duck,8.80,no,no
+芥蘭雞片 Sauteed Chicken w/ Chinese Broccoli,Chicken & Duck,9.80,no,no
+腰果雞片 Sauteed Chicken w/ Cashew Nuts,Chicken & Duck,8.80,no,no
+
+鐵板黒椒牛仔骨 Sizzling Beed Short Rib w/ Black Pepper,Sizzling 鐵板,13.80,no,no
+鐵板黒椒海鮮 Sizzling Seafood w/ Black Pepper,Sizzling 鐵板,13.80,no,no
+鐵板黒椒生蠔 Sizzling Oyster w/ Black Pepper,Sizzling 鐵板,16.80,no,no
+鐵板黒椒牛柳粒 Sizzling Filet Mignon w/ Black Pepper,Sizzling 鐵板,10.80,no,no
+鐵板豉汁銀雪魚 Sizzling Sea Bass w/ Black Bean Sauce,Sizzling 鐵板,18.80,no,no
+鐵板蠔油雞片 Sizzling Chicken w/ Oyster Sauce,Sizzling 鐵板,9.80,no,no
+
+京都肉棑 Deep Fired Pork Chop w/ B.B.Q. Sauce,Beef & Pork,8.80,no,no
+椒鹽肉棑 Deep Fried Pork Chop w/ Salt & Chili Pepper,Beef & Pork,8.80,yes,no
+蒜子蜜汁肉棑 Deep Fried Pork Chop w/ Honey & Garlic,Beef & Pork,8.80,no,no
+芥蘭牛肉 Sauteed Beef w/ Chinese Broccoli,Beef & Pork,10.80,no,no
+雪豆牛肉 Sauteed Beef w/ Snow Pea,Beef & Pork,10.80,no,no
+四川牛 Szechuan Style Beef w/ Broccoli,Beef & Pork,10.80,yes,no
+京醬三鮮 Prawns, Beef, Chicken in Peking Sauce,11.80,Beef & Pork,yes,no
+
+火鴨窩麵 B.B.Q. Duck w/ Noodle in Soup,Noodle Soup,9.80,no,no
+海鮮窩麵 Assorted Seafood w/ Noodle in Soup,Noodle Soup,10.80,no,no
+北菇雞窩麵 Chicken & Mushrooms w/ Noodles in Soup,Noodle Soup,9.80,no,no
+招牌窩麵 House Special Noodle in Soup,Noodle Soup,10.80,no,no
+炸菜肉絲窩麵 Preserved Vegatable & Shredded Meat Noodle in Soup,9.80,yes,no
+
+海鮮炒麵 Seafood Chow Mein,Noodle,10.80,no,no
+招牌炒麵 House Special Chow Mean,Noodle,10.80,no,no
+蝦球炒麵 Prawns Chow Mein,Noodle,10.80,no,no
+北菇雞炒麵 Chicken & Chinese Mushrooms Chow Mein,Noodle,9.80,no,no
+牛肉炒麵 Beef Chow Mein,Noodle,9.80,no,no
+豉椒牛炒麵 Beef Chow Mein w/ Black Bean Sauce,Noodle,9.80,no,no
+豉油皇炒麵 Bean Sprout & Soy Sauce Chow Mein,Noodle,9.80,no,no
+干炒牛河 Beef Chow Fun w/ Bean Sprout,Noodle,9.80,no,no
+沙爹牛肉炒麵 Beef Chow Mein w/ Satay Sauce,Noodle,9.80,no,no
+海鮮河粉 Seafood Chow Fun,Noodle,10.80,no,no
+招牌河粉 House Special Chow Fun,Noodle,10.80,no,no
+蝦球河粉 Prawns Chow Fun,Noodle,10.80,no,no
+北菇雞河粉 Chicken & Chinese Mushrooms Chow Fun,Noodle,9.80,no,no
+牛肉河粉 Beef Chow Fun,Noodle,9.80,no,no
+豉椒牛河粉 Beef Chow Fun w/ Black Bean Sauce,Noodle,9.80,no,no
+豉油皇河粉 Bean Sprout & Soy Sauce Chow Fun,Noodle,9.80,no,no
+沙爹牛肉河粉 Beef Chow Fun w/ Satay Sauce,Noodle,9.80,no,no
+鴛鴦炒米 Seafood w/ Two Kinds of Vermicelli Noodle,Noodle,12.80,no,no
+星洲炒米 Singapore Style Vermicelli,Noodle,10.80,no,no
+韮王肉絲干燒伊麵 Chinese Chives & Pork w/ Braised Noodle,Noodle,10.80,no,no
+海鮮干燒伊麵 Seafood w/ Braised Noodle,Noodle,12.80,no,no
+上海粗炒麵 Shanghai Chow Mein,Noodle,10.80,no,no
+
+福州炒飯 Fow Chow Fried Ric,Fried Rice 炒飯,10.80,no,no
+瑤柱蛋白炒飯 Dry Scallops w/ Egg White Fried Rice,Fried Rice 炒飯,19.80,no,no
+炒飯 Shrimp Fried Rice,Fried Rice 炒飯,8.80,no,no
+炒飯 Diced Chicke & Salted Fish Fried Rice,Fried Rice 炒飯,9.80,no,no
+炒飯 House Special Fried Rice,Fried Rice 炒飯,8.80,no,no
+炒飯 B.B.Q. Pork Fried Rice,Fried Rice 炒飯,7.80,no,no
+炒飯 Beef Fried Rice,Fried Rice 炒飯,7.80,no,no
+炒飯 Chicken Fried Rice,Fried Rice 炒飯,7.80,no,no
+炒飯 Mixed Vegetables Fried Rice,Fried Rice 炒飯,7.80,no,no
+炒飯 Seafood Fried Rice,Fried Rice 炒飯,8.80,no,no
+炒飯 Assorted Meat Fried Sticky Rice,Fried Rice 炒飯,10.80,no,no
+
+Skin Bean Curd w/ Vegetables,Vegetarian Dishes 素食,8.80,no,no
+Black Mushroom w/ Japese Tofu,Vegetarian Dishes 素食,10.80,no,no
+Bailing Muchroom w/ Chinese Broccoli,Vegetarian Dishes 素食,10.80,no,no
+Bailing Muchroom w/ Mustard Green,Vegetarian Dishes 素食,10.80,no,no
+Bailing Muchroom w/ Chinese Green,Vegetarian Dishes 素食,10.80,no,no
+Bailing Muchroom w/ Baby Bok Choi,Vegetarian Dishes 素食,10.80,no,no
+Bamboo Pith w/ Bean Skin Roll,Vegetarian Dishes 素食,11.80,no,no
+Sauteed Peawins,Vegetarian Dishes 素食,12.80,no,no

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org/">
+<head th:replace="fragments :: head">
+</head>
+<body>
+
+<div th:replace="fragments :: page-header"></div>
+
+<div class="container body-content">
+
+    <h1 th:text="${#strings.capitalizeWords(title)}"></h1>
+
+    <div th:unless="${menus} and ${menus.size()}">
+        <h2>No Results</h2>
+    </div>
+
+    <div th:fragment="menus-list">
+        <div th:if="${menus} and ${menus.size()}">
+
+            <h3 th:text="${menus.size() + ' Result(s)'}"></h3>
+
+            <div  th:each="job : ${menus}">
+                <table  th:fragment="single-menu" class="menu-listing">
+                    <tr>
+                        <th>Name</th>
+                        <td th:text="${menu.name}"></td>
+                    </tr>
+                    <tr>
+                        <th>Category</th>
+                        <td th:text="${menu.category}"></td>
+                    </tr>
+                    <tr>
+                        <th>Price</th>
+                        <td th:text="${menu.price}"></td>
+                    </tr>
+                    <tr>
+                        <th>Spicy</th>
+                        <td th:text="${menu.spicy}"></td>
+                    </tr>
+                    <tr>
+                        <th>Pound</th>
+                        <td th:text="${menu.pound}"></td>
+                    </tr>
+                </table>
+            </div>
+
+        </div>
+
+    </div>
+</div>
+
+</body>
+</html>
